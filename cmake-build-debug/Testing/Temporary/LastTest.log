@@ -1,0 +1,30 @@
+Start testing: Nov 18 15:32 EET
+----------------------------------------------------------
+1/1 Testing: CountTest.HandleCount
+1/1 Test: CountTest.HandleCount
+Command: "/Users/yura_kulakovskyi/Documents/C++/AP/PR11/PR11_1_C/cmake-build-debug/PR11_1_tests" "--gtest_filter=CountTest.HandleCount" "--gtest_also_run_disabled_tests"
+Directory: /Users/yura_kulakovskyi/Documents/C++/AP/PR11/PR11_1_C/cmake-build-debug
+"CountTest.HandleCount" start time: Nov 18 15:32 EET
+Output:
+----------------------------------------------------------
+Running main() from /Users/yura_kulakovskyi/Documents/C++/AP/PR11/PR11_1_C/lib/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = CountTest.HandleCount
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CountTest
+[ RUN      ] CountTest.HandleCount
+[       OK ] CountTest.HandleCount (0 ms)
+[----------] 1 test from CountTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"CountTest.HandleCount" end time: Nov 18 15:32 EET
+"CountTest.HandleCount" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 18 15:32 EET
